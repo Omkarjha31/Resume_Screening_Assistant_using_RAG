@@ -41,8 +41,8 @@ welcome_message = """
   1. To set up, please add your OpenAI's API key. 🔑 
   2. Type in a job description query. 💬
 
-  Hint: The knowledge base of the LLM has been loaded with a pre-existing vectorstore of [resumes](https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline/blob/main/data/main-data/synthetic-resumes.csv) to be used right away. 
-  In addition, you may also find example job descriptions to test [here](https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline/blob/main/data/supplementary-data/job_title_des.csv).
+  Hint: The knowledge base of the LLM has been loaded with a pre-existing vectorstore of [resumes](https://github.com/Omkarjha31/Resume_Screening_Assistant_using_RAG/blob/main/data/main-data/synthetic-resumes.csv) to be used right away. 
+  In addition, you may also find example job descriptions to test [here](https://github.com/Omkarjha31/Resume_Screening_Assistant_using_RAG/blob/main/data/supplementary-data/job_title_des.csv).
 
   Please make sure to check the sidebar for more useful information. 💡
 """
@@ -85,7 +85,7 @@ about_message = """
   This small program is a prototype designed out of pure interest as additional work for the author's Bachelor's thesis project. 
   The aim of the project is to propose and prove the effectiveness of RAG-based models in resume screening, thus inspiring more research into this field.
 
-  The program is very much a work in progress. I really appreciate any contribution or feedback on [GitHub](https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline).
+  The program is very much a work in progress. I really appreciate any contribution or feedback on [GitHub](https://github.com/Omkarjha31/Resume_Screening_Assistant_using_RAG.git).
 
   If you are interested, please don't hesitate to give me a star. ⭐
 """
