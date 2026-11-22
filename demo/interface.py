@@ -179,7 +179,7 @@ with st.sidebar:
 
   st.divider()
   st.markdown(about_message)
-  st.markdown("Made by [Hungreeee](https://github.com/Hungreeee)")
+  st.markdown("Made by [Omkar Jha](https://github.com/Omkarjha31)")
 
 
 for message in st.session_state.chat_history:
