@@ -23,7 +23,7 @@ On the other hand, RAG Fusion is effective in addressing complex and ambiguous h
 
 ## Demo
 
-The demo interface of the chatbot can be found here: [Streamlit](https://resume-screening-rag-gpt.streamlit.app)
+The demo interface of the chatbot can be found here: [Streamlit](https://resumescreeningassistantusingrag-l2hyr8agcr3riqr5glmfrm.streamlit.app/)
 
 Default synthetic resume data set used in the demo: [GitHub](https://github.com/Omkarjha31/Resume_Screening_Assistant_using_RAG/blob/main/data/main-data/synthetic-resumes.csv)
 
